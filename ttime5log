@@ -1,0 +1,24 @@
+Script started on 2023-03-27 12:29:02+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="72" LINES="35"]
+Hello, nik!
+[sudo] пароль для nik: 
+net.ipv4.ip_default_ttl = 65
+[?2004h12:29:08 [01;32mnik[01;34m ~[01;33m (master)[01;34m $[00m exit[K[K[K[Kls
+[?2004l [0m[01;34manaconda3[0m                    [01;34msnap[0m
+ [01;34mDesktop[0m                     [01;34m'Telegram Desktop'[0m
+ [01;34mdev[0m                          [01;34mTemplates[0m
+ [01;34mDocuments[0m                    ttime5log
+ [01;34mDownloads[0m                    ttimelog1Parhomenko
+ [01;34mlaba3linux[0m                   Untitled8.ipynb
+ [01;34mlabrabota4[0m                   [01;34mVideos[0m
+ [01;34mlinux-labraboty-2023-sh01t[0m  'Без названия1.ipynb'
+ [01;34mMusic[0m                       'Без названия2.ipynb'
+ [01;34mmy_project_dir[0m              'Без названия.ipynb'
+ [01;34mPictures[0m                     [01;34mЗагрузки[0m
+ [01;34mPublic[0m                       ЛабРабота4linux2022-2023.pdf
+[?2004h12:29:35 [01;32mnik[01;34m ~[01;33m (master)[01;34m $[00m ln
+[?2004lln: пропущен операнд, задающий файл
+По команде «ln --help» можно получить дополнительную информацию.
+[?2004h12:29:37 [01;32mnik[01;34m ~[01;33m (master)[01;34m $[00m exit
+[?2004lexit
+
+Script done on 2023-03-27 12:29:41+03:00 [COMMAND_EXIT_CODE="1"]
